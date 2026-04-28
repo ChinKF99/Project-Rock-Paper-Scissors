@@ -1,1 +1,2 @@
-# Rock-Paper-Scissors
+# Rock-Paper-Scissors Games
+Created while trying to learn HTML and Javascript
